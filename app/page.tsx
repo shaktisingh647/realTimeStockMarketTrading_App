@@ -4,6 +4,7 @@ function Home() {
     <div className="flex justify-center items-center h-screen">
       page
       <Button>Click Me</Button>
+      <p>hey</p>
     </div>
   )
 }
